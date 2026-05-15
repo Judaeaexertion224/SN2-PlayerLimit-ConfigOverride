@@ -12,6 +12,10 @@ If this config works for your build, please leave a star and report your game ve
 
 本项目只提供 Unreal Engine 用户配置覆盖文件，用于尝试让游戏在创建多人会话时读取更高的玩家人数参数。它不会修改游戏可执行文件，不会注入 DLL，也不会绕过 EOS、Steam 或官方在线服务校验。
 
+Known issue / 已知问题:
+Joining as the 5th player may crash or interrupt the game process. This indicates the player limit is likely enforced by game runtime code or online session validation, not only by Game.ini.
+第 5 名玩家加入时可能导致游戏进程中断，说明人数上限很可能由游戏运行时代码或在线会话校验强制控制，而不是单纯由 Game.ini 决定。
+
 ### 功能
 
 - 尝试覆盖多人会话人数相关配置
