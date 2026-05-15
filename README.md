@@ -1,5 +1,6 @@
 # SN2 Player Limit Config Override
-
+#If this config works for your build, please leave a star and report your game version.
+#如果这个配置在你的版本中有效，欢迎点 Star 并反馈游戏版本。
 [中文](#中文说明) | [English](#english)
 
 ## 中文说明
